@@ -37,7 +37,7 @@ class Reservation:
             "RoomType": self.room_details.roomType,
             "NightlyRates": self.room_details.nightlyRates,
             "MaxSize": self.room_details.maxSize,
-            "IsCheckedIn": self.room_details.isCheckIn
+            "isCheckedIn": self.room_details.isCheckIn
         }
 
     def __str__(self):

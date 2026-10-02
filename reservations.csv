@@ -1,0 +1,2 @@
+BookingID,GuestFirstName,GuestLastName,RoomNumber,RoomType,NightlyRates,MaxSize,isCheckedIn
+009,Kira,Johnson,999,Suite,2000.0,2,False
